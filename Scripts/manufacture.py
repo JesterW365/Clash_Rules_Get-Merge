@@ -50,4 +50,8 @@ def manufacture(src_dir, save_dir):
     for title, count in supply_counts.items():
         group_name = groups[title]['name']
         print(f"其中 {group_name} 有 {count} 个补充")
-      
+
+if __name__ == "__main__":
+    src_path = r"source"
+    dest_path = r"Generated_rulesets"
+    manufacture(src_path, dest_path)
