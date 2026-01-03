@@ -1,5 +1,5 @@
 ### AI_service_coder
-## ruleset : marscode
+# ruleset : marscode
 # type : classical
 payload:
   - DOMAIN-SUFFIX,marscode.com
