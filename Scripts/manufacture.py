@@ -42,8 +42,17 @@ def manufacture(src_dir, save_dir):
 
     # 4. 依次调用转换和混合
     print(f"\n--- 正在生成规则组文件 ---")
+    all_group_names = []
     for title, data in groups.items():
-        type_conversion(data['name'], save_dir, data['rules'])
+        g_name = data['name']
+        all_group_names.append(g_name)
+        type_conversion(g_name, save_dir, data['rules'])
+    
+    # 4.1 在保存目录生成 rulesets.list
+    list_file_path = os.path.join(save_dir, 'rulesets.list')
+    with open(list_file_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(all_group_names) + '\n')
+    print(f"已生成规则列表文件: {list_file_path}")
     
     # 5. 打印汇总信息
     print(f"\n生成了 {len(groups)} 个规则组")
