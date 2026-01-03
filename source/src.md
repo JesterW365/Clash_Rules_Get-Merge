@@ -31,7 +31,9 @@
 
 ---
 
-### Microsoft & Bing (MS+Bing)
+### Microsoft & Bing
+
+name : MS+Bing
 
 1. microsoft
 
@@ -54,7 +56,9 @@
 
 ---
 
-### Google & YouTube (Google+YT)
+### Google & YouTube
+
+name : Google+YT
 
 1. google
 
@@ -68,7 +72,9 @@
 
 ---
 
-### AI_service_main (AI)
+### AI_service_main
+
+name : Ai
 
 1. gemini
 
@@ -87,7 +93,9 @@
 
 ---
 
-### AI_service_coder (AIcoder)
+### AI_service_coder
+
+name : AiCoder
 
 1. trae!cn
 
@@ -111,7 +119,20 @@
 
 ---
 
-### Apple & iCloud (Apple+iCloud)
+### AI_router_CN
+
+name : AiRouterCN
+
+1. ai-router-cn
+
+- type : classical
+- url : https://raw.githubusercontent.com/JesterW365/Clash_Rules_Get-Merge/refs/heads/main/Rules/AI_router_CN/AiRouterCN.yaml
+
+---
+
+### Apple & iCloud
+
+name : Apple+iCloud
 
 1. apple
 
@@ -125,7 +146,9 @@
 
 ---
 
-### Telegram & Twitter & Facebook & Instagram & Threads & Tiktok & Reddit (FixedMedias)
+### Telegram & Twitter & Facebook & Instagram & Threads & Tiktok & Reddit
+
+name : FixedMedias
 
 1. telegram
 
@@ -164,7 +187,9 @@
 
 ---
 
-### Steam & Battle & Nvidia & EA & Rockstar & Ubisoft (GamePlatform)
+### Steam & Battle & Nvidia & EA & Rockstar & Ubisoft
+
+name : GamePlatforms
 
 1. steam
 
