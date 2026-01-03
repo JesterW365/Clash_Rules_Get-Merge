@@ -39,6 +39,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add Generated_rulesets/*.yaml
+          git add Generated_rulesets/*.list
           git commit -m "Auto-update rules" || echo "No changes to commit"
           # 使用 GITHUB_TOKEN 进行认证
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
