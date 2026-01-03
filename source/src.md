@@ -178,7 +178,7 @@ name : FixedMedias
 6. tiktok
 
 - type : classical
-- url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tiktok/Tiktok.yaml
+- url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.yaml
 
 7. reddit
 
@@ -248,3 +248,5 @@ name : GamePlatforms
 
 - type : ipcidr
 - url : https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt
+
+---
