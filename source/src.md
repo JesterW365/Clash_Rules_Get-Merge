@@ -1,17 +1,14 @@
 ### PreDirect
 
-1. localareanetwork
+name : predirect
 
+1. localareanetwork
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.yaml
-
 2. steamCN
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.yaml
-
 3. gamedownloadCN
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.yaml
 
@@ -19,54 +16,48 @@
 
 ### ADrules
 
-1. anti-ad
+name : adrules
 
+1. anti-ad
 - type : domain
 - url : https://anti-ad.net/clash.yaml
-
 2. adtules_top
-
 - type : domain
 - url : https://adrules.top/adrules_domainset.txt
 
 ---
 
-### Microsoft & Bing
+### Microsoft_Bing
 
-name : MS+Bing
+name : msbing
 
 1. microsoft
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml
-
 2. bing
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bing/Bing.yaml
 
 ---
 
-### Ondrive
+### Onedrive
+
+name : onedrive
 
 1. onedrive
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OneDrive/OneDrive.yaml
 
 ---
 
-### Google & YouTube
+### Google _YouTube
 
-name : Google+YT
+name : googleyt
 
 1. google
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.yaml
-
 2. youtube
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml
 
@@ -74,20 +65,15 @@ name : Google+YT
 
 ### AI_service_main
 
-name : Ai
+name : aiuncn
 
 1. gemini
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml
-
 2. anthropic
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Anthropic/Anthropic.yaml
-
 3. openai
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml
 
@@ -95,25 +81,18 @@ name : Ai
 
 ### AI_service_coder
 
-name : AiCoder
+name : aicoderuncn
 
 1. trae!cn
-
 - type : classical
 - url : https://raw.githubusercontent.com/SkywalkerJi/Clash-Rules/refs/heads/master/AI/Trae.yaml
-
 2. cursor
-
 - type : classical
 - url : https://raw.githubusercontent.com/SkywalkerJi/Clash-Rules/refs/heads/master/AI/Cursor.yaml
-
 3. augmentcode
-
 - type : classical
 - url : https://raw.githubusercontent.com/SkywalkerJi/Clash-Rules/refs/heads/master/AI/AugmentCode.yaml
-
 4. windsurf
-
 - type : classical
 - url : https://raw.githubusercontent.com/SkywalkerJi/Clash-Rules/refs/heads/master/AI/Windsurf.yaml
 
@@ -121,10 +100,9 @@ name : AiCoder
 
 ### AI_router_CN
 
-name : AiRouterCN
+name : aicn
 
 1. ai-router-cn
-
 - type : classical
 - url : https://raw.githubusercontent.com/JesterW365/Clash_Rules_Get-Merge/refs/heads/main/Rules/AI_router_CN/AiRouterCN.yaml
 
@@ -132,106 +110,89 @@ name : AiRouterCN
 
 ### Apple & iCloud
 
-name : Apple+iCloud
+name : appleicloud
 
 1. apple
-
 - type : domain
 - url : https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/apple.txt
-
 2. icloud
-
 - type : domain
 - url : https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/icloud.txt
 
 ---
 
-### Telegram & Twitter & Facebook & Instagram & Threads & Tiktok & Reddit
+### FixedMedias
 
-name : FixedMedias
+name : fixedmedias
 
 1. telegram
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml
-
 2. twitter
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.yaml
-
 3. facebook
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Facebook/Facebook.yaml
-
 4. instagram
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Instagram/Instagram.yaml
-
 5. threads
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Threads/Threads.yaml
-
 6. tiktok
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.yaml
-
 7. reddit
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Reddit/Reddit.yaml
 
 ---
 
-### Steam & Battle & Nvidia & EA & Rockstar & Ubisoft
+### GameDownloadunCN
 
-name : GamePlatforms
+name : gamedluncn
+
+1. gamedownload!cn
+- type : classical
+- url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.yaml
+
+---
+
+### GamePlatforms
+
+name : gamepluncn
 
 1. steam
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.yaml
-
 2. battle
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Battle/Battle.yaml
-
-3. nvidia
-
+3. nintendo
 - type : classical
-- url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nvidia/Nvidia.yaml
-
+- url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.yaml
 4. ea
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.yaml
-
 5. rockstar
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Rockstar/Rockstar.yaml
-
 6. ubisoft
-
 - type : classical
 - url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Ubisoft/Ubisoft.yaml
+7. game!cn
+- type : classical
+- url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.yaml
 
 ---
 
 ### Proxy
 
 1. proxy_rules_1
-
 - type : domain
 - url : https://rules.xkww3n.cyou/yaml/proxy.yaml
-
 2. proxy_rules_2
-
 - type : domain
 - url : https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt'
 
@@ -240,13 +201,16 @@ name : GamePlatforms
 ### Direct
 
 1. direct_rules_1
-
 - type : domain
 - url : https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt
-
-2. direc_rules_2
-
+2. direct_rules_2
 - type : ipcidr
 - url : https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt
+3. chinaMedia
+- type : classical
+- url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.yaml
+4. CNdownload
+- type : classical
+- url : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Download/Download.yaml
 
 ---
