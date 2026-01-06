@@ -1,0 +1,9 @@
+  ### ADrules
+# ruleset : ad_custom
+# type : classical
+payload:
+  - DOMAIN-SUFFIX,tpns.tencent.com
+  - DOMAIN,lf-cdn-tos.bytescm.com
+  - DOMAIN,webcast-open.douyin.com
+  - DOMAIN,dsp-api-cn.metriclx.com
+#  - IP-CIDR,119.29.29.89 #待考察
