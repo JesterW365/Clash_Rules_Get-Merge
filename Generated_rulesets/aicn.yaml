@@ -1,10 +1,13 @@
-# Generated on: 2026-01-04 07:24:58
+# Generated on: 2026-01-06 16:11:25
 payload:
   - DOMAIN-SUFFIX,302.ai
   - DOMAIN-SUFFIX,aihubmix.com
   - DOMAIN-SUFFIX,aiionly.com
   - DOMAIN-SUFFIX,alayanew.com
+  - DOMAIN-SUFFIX,aliyuncs.com
   - DOMAIN-SUFFIX,api-proxy.me
+  - DOMAIN-SUFFIX,api.lkeap.cloud.tencent.com
+  - DOMAIN-SUFFIX,baidubce.com
   - DOMAIN-SUFFIX,bigmodel.cn
   - DOMAIN-SUFFIX,burncloud.com
   - DOMAIN-SUFFIX,cherryin.ai
@@ -16,9 +19,12 @@ payload:
   - DOMAIN-SUFFIX,minimax.chat
   - DOMAIN-SUFFIX,mkeai.com
   - DOMAIN-SUFFIX,moonshot.cn
+  - DOMAIN-SUFFIX,n-beijing.volces.com
   - DOMAIN-SUFFIX,ocoolai.com
   - DOMAIN-SUFFIX,packyapi.com
   - DOMAIN-SUFFIX,ph8.co
   - DOMAIN-SUFFIX,ppinfra.com
   - DOMAIN-SUFFIX,qnaigc.com
+  - DOMAIN-SUFFIX,siliconflow.cn
+  - DOMAIN-SUFFIX,xiaomimimo.com
   - DOMAIN-SUFFIX,yunwu.ai

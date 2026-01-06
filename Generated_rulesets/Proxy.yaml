@@ -1,4 +1,4 @@
-# Generated on: 2026-01-04 07:24:59
+# Generated on: 2026-01-06 16:11:26
 payload:
   - DOMAIN-SUFFIX,000webhost.com
   - DOMAIN-SUFFIX,030buy.com
@@ -257,6 +257,7 @@ payload:
   - DOMAIN-SUFFIX,ahlmasr.net
   - DOMAIN-SUFFIX,ai.binwang.me
   - DOMAIN-SUFFIX,ai.dev
+  - DOMAIN-SUFFIX,ai.studio
   - DOMAIN-SUFFIX,aichatting.net
   - DOMAIN-SUFFIX,aiosearch.com
   - DOMAIN-SUFFIX,aiph.net
@@ -1654,6 +1655,7 @@ payload:
   - DOMAIN-SUFFIX,dawateislami.net
   - DOMAIN-SUFFIX,daxa.cn
   - DOMAIN-SUFFIX,daylife.com
+  - DOMAIN-SUFFIX,dazn.com
   - DOMAIN-SUFFIX,db.tt
   - DOMAIN-SUFFIX,dbgjd.com
   - DOMAIN-SUFFIX,dcard.tw
@@ -5024,6 +5026,8 @@ payload:
   - DOMAIN-SUFFIX,ontrac.com
   - DOMAIN-SUFFIX,ooguy.com
   - DOMAIN-SUFFIX,oojj.de
+  - DOMAIN-SUFFIX,ooni.io
+  - DOMAIN-SUFFIX,ooni.org
   - DOMAIN-SUFFIX,op-online.de
   - DOMAIN-SUFFIX,opb.org
   - DOMAIN-SUFFIX,open.com.hk
@@ -7748,6 +7752,7 @@ payload:
   - DOMAIN-SUFFIX,xbtce.com
   - DOMAIN-SUFFIX,xcafe.com
   - DOMAIN-SUFFIX,xcafe.in
+  - DOMAIN-SUFFIX,xcancel.com
   - DOMAIN-SUFFIX,xchina.co
   - DOMAIN-SUFFIX,xcity.jp
   - DOMAIN-SUFFIX,xcream.net
