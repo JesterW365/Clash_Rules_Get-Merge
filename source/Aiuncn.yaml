@@ -1,0 +1,8 @@
+### AI_service_main
+# ruleset : aiservice
+# type : classical
+payload:
+  - DOMAIN-SUFFIX,misteral.ai
+  - DOMAIN-SUFFIX,vercel.sh
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,ntegrate.api.nvidia.com
