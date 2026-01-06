@@ -6,4 +6,5 @@ payload:
   - DOMAIN,lf-cdn-tos.bytescm.com
   - DOMAIN,webcast-open.douyin.com
   - DOMAIN,dsp-api-cn.metriclx.com
+  - DOMAIN-KEYWORD,open-if.douyin.com
 #  - IP-CIDR,119.29.29.89 #待考察
